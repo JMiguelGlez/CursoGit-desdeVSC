@@ -8,6 +8,7 @@ public class nuevaClase {
 			System.out.println(test);
 			System.out.println("Primer parrafo agreado");
 			System.out.println("Se agregado codigo desde gitHub");
+            System.out.println("Se agrega cambio desde VisualStudio");
 			
 	}
 
